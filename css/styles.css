@@ -1,0 +1,56 @@
+body{
+    background-color: #D3DEDC;
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+  }
+  
+ h3{
+    color: #7C99AC;
+  }
+  
+  img, table, .p2{
+    margin: auto;
+  }
+  
+  a{
+    color: lightslategray;
+  }
+     
+  hr{
+    border-style: dotted;
+    border-color: #92A9BD;
+    border-width: 7px;
+    border-bottom-style: none;
+    margin-top: 3.5vh;
+    margin-bottom: 3.5vh;
+    width: 2%;
+  }
+  
+  img{
+    display: block;
+    border-radius: 20px;
+    margin-top: 5%;
+    width: 15%;  
+  }
+  
+  .foot{
+    font-size: x-small;
+  } 
+  
+  .logo{
+    max-width:50px;
+  }
+
+  .madsen{
+    color: #88304E;
+    text-decoration: none;
+  }
+  
+  .main-title{
+    color: #52616B;
+  }
+  
+  .p2{
+    font-size: 15px;
+    max-width: 45%;
+  }
